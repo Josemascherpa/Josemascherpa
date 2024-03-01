@@ -1,23 +1,25 @@
 <div align="center">
-<h2> Hola, ¡Bienvenido a mi perfil de GitHub! <img src="https://github.com/Josemascherpa/Josemascherpa/blob/main/hola.gif" width="30"></h2>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Programador GIF" width="240" height="180">
+
+</div>  
+
+<div align="center">
+<h2> Hola, ¡Bienvenido a mi perfil de GitHub! <img src="https://github.com/Josemascherpa/Josemascherpa/blob/main/hola.gif" width="30"></h2>  
 <a href="https://linkedin.com/in/joseignaciomascherpa" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://instagram.com/nachomascherpa" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+</a></div>
 
-
-
-  
-<h2>Acerca de mi🤵</h2>
-<div align="center">  
-
+<div align="center"> 
+<h2>Acerca de mi🤵</h2>  
 Hola, soy desarrollador de software. Actualmente trabajo en una empresa de videojuegos utilizando como motor grafico Unity C#. También estoy explorando y estudiando el desarrollo de aplicaciones móviles con Kotlin/Java, con la mirada puesta en ampliar mis habilidades y abrirme camino en este campo en el futuro.
+
+</div>
 
 <div align="center">  
 <h2>Lenguajes y Herramientas 🛠️</h2>
-
 
 ![C#](https://img.shields.io/badge/-C%23-blue)
 ![Java](https://img.shields.io/badge/-Java-orange)
@@ -27,6 +29,10 @@ Hola, soy desarrollador de software. Actualmente trabajo en una empresa de video
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?logo=firebase)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?logo=android)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+
+
+
+
 
 <div align="center">  
 <h2>Mis proyectos en GitHub🖥️</h2></h2>
