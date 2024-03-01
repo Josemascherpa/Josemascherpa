@@ -1,16 +1,35 @@
 <div align="center">
-<h2> Hola!! Bienvenido a mi perfil de GitHub! <img src="https://github.com/](https://github.com/Josemascherpa/Josemascherpa/blob/main/hola.gif" width="30"></h2>
-<!--
-**Josemascherpa/Josemascherpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hola, ¡Bienvenido a mi perfil de GitHub! <img src="https://github.com/Josemascherpa/Josemascherpa/blob/main/hola.gif" width="30"></h2>
+<a href="https://linkedin.com/in/joseignaciomascherpa" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/nachomascherpa" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  
+<h2>Acerca de mi🤵</h2>
+<div align="center">  
+
+Hola, soy desarrollador de software. Actualmente trabajo en una empresa de videojuegos utilizando como motor grafico Unity c#. También estoy explorando y estudiando el desarrollo de aplicaciones móviles con Kotlin/Java, con la mirada puesta en ampliar mis habilidades y abrirme camino en este campo en el futuro.
+
+-------------------
+<div align="center">  
+<h2>Lenguajes y Herramientas 🛠️</h2>
+
+
+![C#](https://img.shields.io/badge/-C%23-blue)
+![Java](https://img.shields.io/badge/-Java-orange)
+![Kotlin](https://img.shields.io/badge/-Kotlin-green)
+![Unity](https://img.shields.io/badge/-Unity-black?logo=unity)
+![Godot](https://img.shields.io/badge/-Godot-blue?logo=godot-engine)
+![Firebase](https://img.shields.io/badge/-Firebase-yellow?logo=firebase)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-green?logo=android)
+![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+
+-------------------
+
+
+
