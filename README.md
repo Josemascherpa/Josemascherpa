@@ -36,7 +36,7 @@ Hola, soy desarrollador de software. Actualmente trabajo en una empresa de video
 
 <div align="center">  
 <h2>Mis proyectos en GitHub🖥️</h2></h2>
-<a href="https://github.com/Josemascherpa/AlturaRio">ALTURA RIO</a>(Java-Android Studio)<br>
+<a href="https://github.com/Josemascherpa/DiaDePesca">🐟Dia de Pesca🎣</a>(Java-Android Studio)<br>
 <a href="https://github.com/Josemascherpa/ProyectoFinal">Proyecto Final</a>(Unity-C#)<br>
 
 
