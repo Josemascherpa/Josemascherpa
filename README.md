@@ -23,9 +23,9 @@ Desarrollador de aplicaciones móviles con React Native, Kotlin y Java. Actualme
   
 ![ReactNative](https://img.shields.io/badge/React%20Native-blue?style=flat&logo=react&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=white) 
-![C#](https://img.shields.io/badge/-C%23-blue)
 ![Java](https://img.shields.io/badge/-Java-orange)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-green)
+![C#](https://img.shields.io/badge/-C%23-blue)
 ![Unity](https://img.shields.io/badge/-Unity-black?logo=unity)
 ![Godot](https://img.shields.io/badge/-Godot-blue?logo=godot-engine)
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?logo=firebase)
