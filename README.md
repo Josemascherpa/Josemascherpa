@@ -20,7 +20,9 @@ Desarrollador de aplicaciones móviles con React Native, Kotlin y Java. Actualme
 
 <div align="center">  
 <h2>Lenguajes y Herramientas 🛠️</h2>
-
+  
+![ReactNative](https://img.shields.io/badge/React%20Native-blue?style=flat&logo=react&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=white) 
 ![C#](https://img.shields.io/badge/-C%23-blue)
 ![Java](https://img.shields.io/badge/-Java-orange)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-green)
