@@ -14,7 +14,7 @@
 
 <div align="center"> 
 <h2>Acerca de mi🤵</h2>  
-Hola, soy desarrollador de software. Actualmente trabajo en una empresa de videojuegos utilizando como motor grafico Unity C#. También estoy explorando y estudiando el desarrollo de aplicaciones móviles con Kotlin/Java, con la mirada puesta en ampliar mis habilidades y abrirme camino en este campo en el futuro.
+Desarrollador de aplicaciones móviles con React Native, Kotlin y Java. Actualmente estudiante de la Tecnicatura Universitaria en Programación en la UTN, y graduado como Técnico en Programación y Diseño de Videojuegos en la UNL. He trabajado profesionalmente en Killabunnies, aportando soluciones innovadoras en el desarrollo de videojuegos. Siempre en busca de nuevas oportunidades.
 
 </div>
 
