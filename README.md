@@ -40,7 +40,7 @@ Desarrollador de aplicaciones móviles con React Native, Kotlin y Java. Actualme
 <h2>Mis proyectos en GitHub🖥️</h2></h2>
 <a href="https://github.com/Josemascherpa/DiaDePesca">🐟Dia de Pesca🎣</a> (Java-Android Studio)<br>
 <a href="https://github.com/Josemascherpa/DolApp">💰DolApp💵</a> (ReactNative-Visual Studio Code)<br>
-<a href="https://github.com/Josemascherpa/AppNotes">🗒️AppNotes📝</a> (ReactNative-Visual Studio Code)<br>
+<a href="https://github.com/Josemascherpa/AppNotes">🗒️AppNotes📝</a> (ReactNative-Visual Studio Code-MongoDB-Nodejs-Express)<br>
 
 
 
