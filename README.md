@@ -23,6 +23,9 @@ Desarrollador de aplicaciones móviles con React Native, Kotlin y Java. Actualme
   
 ![ReactNative](https://img.shields.io/badge/React%20Native-blue?style=flat&logo=react&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-F7DF1E?style=flat&logo=typescript&logoColor=white) 
+[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
+[![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 ![Java](https://img.shields.io/badge/-Java-orange)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-green)
 ![C#](https://img.shields.io/badge/-C%23-blue)
